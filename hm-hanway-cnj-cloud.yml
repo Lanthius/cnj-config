@@ -1,3 +1,7 @@
 cnj:
   info:
     message: Server verwendet Konfiguration aus Codebase "Cloud"!
+spring:
+  h2:
+    console:
+      enabled: true
